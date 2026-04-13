@@ -1,6 +1,6 @@
 # Cosmic Mystery Interactive Space Website
 
-Created with [Omma](https://omma.build)
+LIVE DEMO https://jasminpeer.github.io/cosmora_space_explorer/
 
 ## Setup
 
